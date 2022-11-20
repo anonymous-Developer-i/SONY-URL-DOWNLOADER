@@ -8,8 +8,8 @@
 
 <br>                 
 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=sonyurluploader" >
-SONY-URL-DOWNLOADER
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/SONY-URL-DOWNLOADER&branch=main&name=sonyurluploader" >
+
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 
 </a>
