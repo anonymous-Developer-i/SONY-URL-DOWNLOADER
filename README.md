@@ -2,7 +2,21 @@
 
 
 
-#### [UPLOADER-BOT](https://t.me/uploader_x_bot)
+<details><summary>🔥 Deploy To Koyeb 🔥</summary>
+
+<p>
+
+<br>                 
+
+<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT&branch=main&name=sonyurluploader" >
+SONY-URL-DOWNLOADER
+  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
+
+</a>
+
+</p>
+
+</details>
 
 [![Size](https://img.shields.io/github/repo-size/Clinton-Abraham/UPLOADER-BOT?style=flat-square&color=green)](https://github.com/Clinton-Abraham/UPLOADER-BOT)
 
